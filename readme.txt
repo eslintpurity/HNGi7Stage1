@@ -1,4 +1,4 @@
-HNGi7 Stage0 Requirements
+HNGi7 Stage1 Requirements
 
 • Set your profile photo - Slack
 • Add your phone number - Slack
